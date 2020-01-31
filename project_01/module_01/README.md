@@ -1,4 +1,4 @@
-# Module 01
+# Personal Site - Module 01
 
 ## Lesson
 - ![FSA](/logo.png) [📺 Lectures 1-3 in Playlist](https://www.youtube.com/watch?v=a5sDOIhqdFw&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=2&t=3s)
