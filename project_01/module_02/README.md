@@ -1,7 +1,7 @@
 # Personal Site - Module 02
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lectures 4- in Playlist]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=Vhcfzn92Uno&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=5&t=0s)
 - ![FSA](/logo.png) [👾 Demo Code: *CSS*](demo.html)
 - ![FSA](/logo.png) [🔬 Workshop: *Module_02*](https://learn.fullstackacademy.com/workshop/5e2f027bf06d2e0004f1ff7d/content/5e2f027bf06d2e0004f1ff92/text)
 - ![FSA](/logo.png) [👾 Solution: *Module_02*](https://learn.fullstackacademy.com/workshop/5e2a093f2e420300043d3add/content/5e2b00182e420300043d52aa/text)
