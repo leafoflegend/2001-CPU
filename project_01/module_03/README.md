@@ -3,8 +3,8 @@
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lectures in Playlist]() -->
 <!-- - ![FSA](/logo.png) [👾 Demo Code: *HTML*](demo.html) -->
-- ![FSA](/logo.png) [🔬 Workshop: *Module_03*](https://learn.fullstackacademy.com/workshop/5e2f027bf06d2e0004f1ff7d/content/5e2f027bf06d2e0004f1ff92/text)
-<!-- - ![FSA](/logo.png) [👾 Solution: *Module_03*]() -->
+- ![FSA](/logo.png) [🔬 Workshop: *Module_03*](https://learn.fullstackacademy.com/workshop/5e2f06f4f06d2e0004f200f1/content/5e2f06f4f06d2e0004f200fa/text)
+<!-- - ![FSA](/logo.png) [👾 Solution: *Module_03*](https://learn.fullstackacademy.com/workshop/5e2f06f4f06d2e0004f200f1/content/5e2f06f5f06d2e0004f20104/text) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 03 (link above)*
