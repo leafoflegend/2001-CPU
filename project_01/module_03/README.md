@@ -8,7 +8,7 @@
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 03 (link above)*
-- ![FSA](/logo.png) 🔬 Finish: *Personal Site (link below)*
+- ![FSA](/logo.png) 🔬 FINISH: *Personal Site (link below)* (DUE SUNDAY)
 - ![FSA](/logo.png) [📖 Prework: *Qwirty - Module_01*](https://learn.fullstackacademy.com/workshop/5e30a3be637793000496128e/content/5e30a3be6377930004961295/text)
 
 ## Weekly Project (Due Sunday)
