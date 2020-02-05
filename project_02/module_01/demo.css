@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.not-nav {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 10;
+    flex-shrink: 1;
+    max-width: 100vw;
+}
+
+.sidebar {
+    border: solid 1px red;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    background: darksalmon;
+}
+
+.item {
+    border: solid 1px green;
+    border-bottom: 0px;
+    background: cornsilk;
+    height: 20px;
+}
+
+.item:last-child {
+    border-bottom: solid 1px green;
+}
+
+.content {
+    border: solid 1px blue;
+    flex-grow: 4;
+    background: lightsteelblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: solid 1px purple;
+    flex: 1 1 75px;
+    height: 100px;
+    margin: 0.2em;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    padding: 0.2em 0.2em;
+    border: solid 2px black;
+    flex-grow: 0;
+    flex-shrink: 2;
+    background: lavenderblush;
+}
+
+.avatar {
+    border-radius: 50%;
+    border: solid 1px lightblue;
+    width: 20px;
+    height: 20px;
+    background: gray;
+}
+
+h3 {
+    color: red;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
