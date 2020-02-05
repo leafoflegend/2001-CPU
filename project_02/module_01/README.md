@@ -1,7 +1,7 @@
 # Qwirty - Module 01
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=QOEKMEwR6Us&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=7)
 - ![FSA](/logo.png) [👾 Demo Code](demo.html)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e30a3be637793000496128e/content/5e30a3be63779300049612a3/text)
 - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e30a3be637793000496128e/content/5e30a3be63779300049612a1/text)
