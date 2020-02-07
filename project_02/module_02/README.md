@@ -1,7 +1,7 @@
 # Qwirty - Module 02
 
 ## Lesson
-- ![FSA](/logo.png) [📺 Lecture](https://youtu.be/X4OrzM6TWQg)
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=X4OrzM6TWQg&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=8)
 - ![FSA](/logo.png) [👾 Demo Code](demo.html)
 - ![FSA](/logo.png) [👾 Image Text Wrap Demo](demo-image-wrap.html)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e30aeeb326e9e00048348e5/content/5e30aeeb326e9e00048348ed/text)
