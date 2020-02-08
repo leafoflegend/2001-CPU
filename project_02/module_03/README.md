@@ -2,9 +2,9 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code](demo.html) -->
+- ![FSA](/logo.png) [👾 Demo Code](demo.html)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 03*](https://learn.fullstackacademy.com/workshop/5e30aef4326e9e00048348fa/content/5e30aef4326e9e0004834902/text)
-<!-- - ![FSA](/logo.png) [👾 Solution: *Module 03*](https://learn.fullstackacademy.com/workshop/5e30aef4326e9e00048348fa/content/5e30aef4326e9e0004834908/text) -->
+- ![FSA](/logo.png) [👾 Solution: *Module 03*](https://learn.fullstackacademy.com/workshop/5e30aef4326e9e00048348fa/content/5e30aef4326e9e0004834908/text)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 03 (link above)*
