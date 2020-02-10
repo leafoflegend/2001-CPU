@@ -17,4 +17,4 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 ## ![FSA](/logo.png) Academic Program
 - [Project 01 - *Personal Site*](project_01)
 - [Project 02 - *Qwirty*](project_02)
-- [Project 02 - *CopyCat*](project_03)
+- [Project 03 - *CopyCat*](project_03)
