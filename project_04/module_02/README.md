@@ -4,7 +4,7 @@
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
 <!-- - ![FSA](/logo.png) [👾 Demo Code](demo.html) -->
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e3af74ab43d2800048a609b/landing)
-- ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e3af74ab43d2800048a609b/content/5e3af74bb43d2800048a60ae/text)
+<!-- - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e3af74ab43d2800048a609b/content/5e3af74bb43d2800048a60ae/text) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 02 (link above)*
