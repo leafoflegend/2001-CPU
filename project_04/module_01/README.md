@@ -1,7 +1,7 @@
 # Retro Draw - Module 01
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=QT5D050ToSQ&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=12)
 - ![FSA](/logo.png) [👾 Demo Code](demo.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e3a2062dc73d20004327fae/content/5e3a2062dc73d20004327fc3/text)
 - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e3a2062dc73d20004327fae/content/5e3a2062dc73d20004327fb9/text)
