@@ -1,7 +1,7 @@
 # Retro Draw - Module 02
 
 ## Lesson
-- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=QT5D050ToSQ&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=13)
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=uhxNC4TtdaY&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=12)
 - ### Demo
 - ![FSA](/logo.png) [👾 Demo Page](demo.html)
 - ![FSA](/logo.png) [👾 Demo Code (JS)](demo.js)
