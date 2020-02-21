@@ -1,0 +1,20 @@
+section {
+    display: flex;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.white {
+    background-color: lightgray;
+}
+
+.card {
+    margin: 0.2em;
+    border: solid 2px black;
+}
