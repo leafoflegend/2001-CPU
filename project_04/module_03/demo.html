@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            
+            main {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+            
+            section {
+                border: 1px solid black;
+                flex-basis: 250px;
+                height: 250px;
+                width: 80vw;
+                display: flex;
+                flex-direction: column;
+                padding: 2em;
+                margin: 0.5em 0.5em;
+            }
+            
+            section button {
+                align-self: center;
+            }
+            
+            section div {
+                flex: 1;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .input-div {
+                margin-top: 0.5em;
+            }
+            
+            .clicked {
+                background-color: darkgrey;
+                color: hotpink;
+            }
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script defer src="./demo.js"></script>
+    </head>
+    <body>
+        <main>
+            <div class="input-div">
+                <label> Input Box </label>
+                <input />
+                <button> Submit </button>
+            </div>
+            <div class='input-entries'>
+            </div>
+            <section class="one">
+                <button eliot='the best'>Click Me to Change Text!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="two">
+                <button>Click Me to Slide Up!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="three">
+                <button>Click Me to Append Stuff!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="four">
+                <button>Click Me to copy template into target!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="five">
+                <button>Click Me to clone and prepend!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="six">
+                <button>Click Me To Flip Out!</button>
+                <div>
+                    <span>Other Text</span>
+                </div>
+            </section>
+            <section class="seven">
+                <button>Click Me To Make Disappearing Buttons!</button>
+            </section>
+        </main>
+        <div class="template-target"></div>
+        <div class="prepend-target"></div>
+        <template>
+            <h3>Hello, World</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quos delectus, quod enim error molestias officia consequuntur modi atque facere quia. Dolores, alias? Tenetur corrupti voluptatem commodi placeat facilis nulla.</p>
+        </template>
+    </body>
+</html>
