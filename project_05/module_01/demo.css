@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template: repeat(5, 20%) / repeat(5, 20%);
+}
+
+.cell {
+    border: solid 1px black;
+}
+
+.highlight {
+    background-color: lightsteelblue;
+}
