@@ -2,7 +2,8 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code](demo.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+- ![FSA](/logo.png) [👾 Demo Code - CSS (Grid)](demo.css)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e456682295c680004732b16/landing)
 <!-- - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e456682295c680004732b16/content/5e456683295c680004732b29/text) -->
 
