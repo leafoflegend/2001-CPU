@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script defer src="app.js"></script>
+    </head>
+    <body>
+        <div class="app">
+            <datalist id='up-by-2s'>
+                <option value='0'></option>
+                <option value='2'></option>
+                <option value='4'></option>
+                <option value='6'></option>
+                <option value='8'></option>
+                <option value='10'></option>
+            </datalist>
+            <div class='slider-container'>
+                <label for='twos'><span class='two-value'></span></label>
+                <input id='twos' list='up-by-2s' type='range' min='0' max='10' step=2 />
+            </div>
+        </div>
+    </body>
+</html>

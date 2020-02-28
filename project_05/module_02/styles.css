@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.slider-container {
+    padding: 1em;
+    height: 100px;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.two-value {
+    color: rgb(0, 0, 0);
+}
+
