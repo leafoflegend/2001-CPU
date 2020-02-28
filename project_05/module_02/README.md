@@ -3,10 +3,10 @@
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
 - ### Demo
-<!-- - ![FSA](/logo.png) [👾 Demo Code (JS)](demo.js) -->
+- ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ### Content
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e45668c295c680004732b36/landing)
-<!-- - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e45668c295c680004732b36/content/5e45668d295c680004732b49/text) -->
+- ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e45668c295c680004732b36/content/5e45668d295c680004732b49/text)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 02 (link above)*
