@@ -1,7 +1,7 @@
 # The Calculator - Module 03
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=4w4JB75LKTY&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=17)
 - ### Demo
 - ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ![FSA](/logo.png) [👾 Demo Code (HTML)](demo.html)
