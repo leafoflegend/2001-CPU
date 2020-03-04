@@ -2,7 +2,7 @@
 
 ## Lesson
 - ![FSA](/logo.png) [📺 Lecture]()
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e56db46f2dcba00048f0c6c/landing)
 - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e56db46f2dcba00048f0c6c/content/5e56db46f2dcba00048f0c79/text)
 

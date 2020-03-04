@@ -2,6 +2,7 @@
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *The Calculator*](https://learn.fullstackacademy.com/workshop/5e43292f3b9652000405936b/landing)
+- ![FSA](/logo.png) [👾 Solution: *The Calculator*](solution)
 
 ## Modules
 
