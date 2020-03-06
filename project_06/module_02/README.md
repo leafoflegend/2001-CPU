@@ -1,12 +1,12 @@
-# TODO.app - Module 02
+# TODO.app - Module 02 - Arrays (push, pop, shift, unshift)
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
 - ### Demo
-<!-- - ![FSA](/logo.png) [👾 Demo Code (JS)](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ### Content
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e56dbbaf2dcba00048f0c9a/content/5e56dbbaf2dcba00048f0ca1/text)
-<!-- - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e56dbbaf2dcba00048f0c9a/content/5e56dbbbf2dcba00048f0ca7/text) -->
+- ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e56dbbaf2dcba00048f0c9a/content/5e56dbbbf2dcba00048f0ca7/text)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 02 (link above)*
