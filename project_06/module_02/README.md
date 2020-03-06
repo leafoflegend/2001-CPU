@@ -1,7 +1,7 @@
 # TODO.app - Module 02 - Arrays (push, pop, shift, unshift)
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=mJ67-WG1ehw&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=19)
 - ### Demo
 - ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ### Content
