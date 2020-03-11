@@ -1,7 +1,7 @@
 # TODO.app - Module 03 - `find()`, `indexOf()`
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture ]() -->
+- ![FSA](/logo.png) [📺 Lecture ](https://www.youtube.com/watch?v=1z-jAKswYOw&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=20)
 - ### Demo
 - ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ### Content

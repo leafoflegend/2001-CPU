@@ -9,5 +9,5 @@
 - ![FSA](/logo.png) [Module 02](module_02)
 - ![FSA](/logo.png) [Module 03](module_03)
 - ![FSA](/logo.png) [Module 04](module_04)
-<!-- - ![FSA](/logo.png) [Module 05](module_05) -->
+- ![FSA](/logo.png) [Module 05](module_05)
 <!-- - ![FSA](/logo.png) [Review](review) -->
