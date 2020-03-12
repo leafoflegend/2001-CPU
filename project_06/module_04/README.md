@@ -1,7 +1,7 @@
 # TODO.app - Module 04
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture ]() -->
+- ![FSA](/logo.png) [📺 Lecture ](https://www.youtube.com/watch?v=RUg8T8LUUck&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=21)
 - ### Demo
 - ![FSA](/logo.png) [👾 Demo Code (JS)](app.js)
 - ### Content
