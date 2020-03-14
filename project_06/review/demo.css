@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100i,300,400,500,800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+li {
+  list-style: none;
+}
+
+input:hover {
+  border: 1px solid blue;
+}
+svg {
+  width: 1rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+img {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  float: left;
+}
+
+header {
+  border: 2px solid purple;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+nav {
+  max-width: 70%;
+}
+
+.single-comic-card {
+  padding: 1rem;
+  flex-basis: 100vw;
+  border: 2px solid peru;
+  border-radius: 1rem;
+  margin-top: 1rem;
+}
+
+.comic-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+main {
+  border: 2px solid turquoise;
+  flex-grow: 2;
+}
+
+header, main, footer {
+  padding: 1rem;
+}
+footer {
+  border: 2px solid peru;
+}
+
+button {
+  padding: .3rem;
+  border-radius: 0.3rem;
+  margin-top: 1rem;
+}
+nav button {
+  margin: .3rem;
+}
+button.action {
+  font-size: 1.5rem;
+}
+
+.single-comic-card textArea {
+  margin-top: 0.5rem;
+  display: block;
+}
+
+.favorites-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.favorites-list > * {
+  padding: 0.5rem;
+}
+#favorites {
+  display: flex;
+  flex-direction: row;
+}
+
+#favorites > * {
+  padding: 0.5rem;
+}
