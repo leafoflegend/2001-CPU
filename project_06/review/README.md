@@ -1,9 +1,9 @@
 # TODO.app - review
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture ]() -->
+- ![FSA](/logo.png) [📺 Lecture ](https://www.youtube.com/watch?v=B6dov6sUayM&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=23)
 - ### Demo
-<!-- - ![FSA](/logo.png) [👾 Demo Code (JS)](demo.js) -->
+- ![FSA](/logo.png) [👾 Demo Code (JS)](demo.js)
 - ### Content
 
 ## Homework
