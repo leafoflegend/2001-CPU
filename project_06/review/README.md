@@ -13,3 +13,4 @@
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *TODO.app*](https://learn.fullstackacademy.com/workshop/5e56d920f2dcba00048f0c06/content/5e58161d4923a00004f9a597/text)
+- ![FSA](/logo.png) [📬 SUBMIT PROJECT HERE: *TODO.app*](https://forms.gle/JAR7WkNTms3H9kQL6) __Submit by Sunday 10pm Pacific__
