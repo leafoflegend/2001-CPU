@@ -1,4 +1,4 @@
-# The Arcade - Day 02
+# The Arcade - Day 02 - functions, arrow functions, hoisting
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->

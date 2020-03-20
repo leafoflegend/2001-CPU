@@ -1,7 +1,7 @@
-# The Arcade - Day 01
+# The Arcade - Day 01 - Game state, map(), reduce()
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=Qlo1tS1mqE0&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=24)
 - ![FSA](/logo.png) [👾 Demo Code - JS](demo.js)
 - ![FSA](/logo.png) [👾 SetInterval Demo](setInterval.js)
 - ![FSA](/logo.png) [🔬 Reps: *JavaScript.info Do 2.1 through 2.8, 2.9 through 2.13*](https://javascript.info/hello-world)
