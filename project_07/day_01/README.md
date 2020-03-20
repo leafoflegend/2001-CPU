@@ -10,5 +10,5 @@
 - ![FSA](/logo.png) 🔬 Finish: *Day 01 (link above)*
 - ![FSA](/logo.png) [📖 Prework: *javascript.info 2.14 through 2.16*](https://javascript.info/function-basics)
 
-## Weekly Project (Due Sunday)
+## Weekly Project (Due NEXT Sunday)
 - ![FSA](/logo.png) [🔬 Project: *The Arcade*](https://learn.fullstackacademy.com/workshop/5e5c090ee91ce200041c09a9/landing)

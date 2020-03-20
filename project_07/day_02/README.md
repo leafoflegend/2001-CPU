@@ -8,6 +8,8 @@
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *The Arcade (link below)*
 - ![FSA](/logo.png) [📖 Prework: *javascript.info 4.1, 5.1 - 5.5, 5.9, 5.10, and 5.12*](https://javascript.info/object)
+- ![FSA](/logo.png)   [-> 📖 New: *5.9, Object.keys, values, entries*](https://javascript.info/keys-values-entries)
+- ![FSA](/logo.png)   [-> 📖 New: *5.10 Destructuring Assignment, *](https://javascript.info/destructuring-assignment)
 
-## Weekly Project (Due Sunday)
+## Weekly Project (Due NEXT Sunday)
 - ![FSA](/logo.png) [🔬 Project: *The Arcade*](https://learn.fullstackacademy.com/workshop/5e5c090ee91ce200041c09a9/landing)

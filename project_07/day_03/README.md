@@ -8,6 +8,10 @@
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *The Arcade (link below)*
 - ![FSA](/logo.png) [📖 Prework: *javascript.info 6.1 through 6.5, 6.8*](https://javascript.info/recursion)
+  - [New: *6.1, Recursion and Stack*](https://javascript.info/recursion)
+  - [New: *6.2, Rest parameters and spread syntax*](https://javascript.info/rest-parameters-spread)
+  - [New: *6.4, The old `var`*](https://javascript.info/var)
+  - [New: *6.8, Scheduling: `setTimeout` and `setInterval`*](https://javascript.info/settimeout-setinterval)
 
-## Weekly Project (Due Sunday)
+## Weekly Project (Due NEXT Sunday)
 - ![FSA](/logo.png) [🔬 Project: *The Arcade*](https://learn.fullstackacademy.com/workshop/5e5c090ee91ce200041c09a9/landing)
