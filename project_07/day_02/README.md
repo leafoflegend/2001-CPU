@@ -1,7 +1,7 @@
 # The Arcade - Day 02 - functions, arrow functions, hoisting
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=wYVSmdXD6BQ&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=25)
 - ![FSA](/logo.png) [👾 Demo Code - JS](demo.js)
 - ![FSA](/logo.png) [🔬 Reps: *javascript.info 2.14 through 2.16*](https://javascript.info/function-basics)
 

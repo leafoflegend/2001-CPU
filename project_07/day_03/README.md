@@ -2,7 +2,8 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](demo.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+- ![FSA](/logo.png) [👾 Demo Code - html](demo.html)
 - ![FSA](/logo.png) [🔬 Reps: *javascript.info 4.1, 5.1 - 5.5, 5.9, 5.10, and 5.12*](https://javascript.info/object)
 
 ## Homework
