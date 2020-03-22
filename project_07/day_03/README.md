@@ -1,4 +1,4 @@
-# The Arcade - Day 03 - Demo Game
+# The Arcade - Day 03 - Demo Game - Rock Paper Scissors
 
 ## Lesson
 - ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=k9Qg-47XhmM&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=26)
