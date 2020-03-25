@@ -1,7 +1,7 @@
 # The Arcade - Day 04 - spread, destructure, setInterval, recursion
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=-RI7EzscwY8&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=27)
 - ![FSA](/logo.png) [👾 Demo Code - JS](demo.js)
 - ![FSA](/logo.png) [🔬 Reps: *javascript.info 6.1 through 6.5, 6.8*](https://javascript.info/recursion)
 
