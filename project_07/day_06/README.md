@@ -1,4 +1,4 @@
-# The Arcade - Day 05
+# The Arcade - Day 06
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
