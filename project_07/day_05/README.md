@@ -1,7 +1,7 @@
 # The Arcade - Day 05 - Review: click handlers, map, jQuery append, app state
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=Apml3t5wKhc&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=28)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Reps: *javascript.info 10.1 - 10.2*](https://javascript.info/try-catch)
 
