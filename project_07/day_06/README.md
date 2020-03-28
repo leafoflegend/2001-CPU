@@ -1,8 +1,8 @@
 # The Arcade - Day 06
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](demo.js) -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=QtkH3OdoGQo&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=29)
+- ![FSA](/logo.png) [👾 Demo Code - JS](demo.js)
 - ![FSA](/logo.png) [🔬 Reps: *javascript.info 11.1 - 11.4, 11.8*](https://javascript.info/callbacks)
 
 ## Homework
