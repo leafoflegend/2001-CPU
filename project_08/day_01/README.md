@@ -1,8 +1,8 @@
 # User Hub - Module 01
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=xe_y7LLM4RA&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=30&t=0s)
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e6d5109f762d1000459ffbd/content/5e6d5109f762d1000459ffc4/text)
 <!-- - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e6d5109f762d1000459ffbd/content/5e6d5109f762d1000459ffca/text) -->
 
