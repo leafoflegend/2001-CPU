@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#app {
+    display: grid;
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    font-family: sans-serif;
+    height: 100%;
+}
+
+#app section {
+    display: flex;
+    flex-direction: column;
+}
+
+#app section + section {
+    padding-top: 12px;
+    border-top: 12px solid #333;
+}
+
+#app section h2 {
+    padding: 12px;
+    background: #ccc;
+    border-bottom: 1px solid #888;
+}
+
+.todo-list {
+    display: flex;
+    flex-direction: row;
+    overflow-y: scroll;
+    flex: 1;
+}
+
+.todo {
+    flex: 0 0 280px;
+    background: #ddd;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.todo h3 {
+    flex-grow: 1;
+    padding: 12px;
+}
+
+.todo footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 12px;
+    background: lightblue;
+}
+
+.todo footer button {
+    font-size: 18px;
+    padding: .5em 1em;
+    border: 1px solid blue;
+    background: white;
+}
