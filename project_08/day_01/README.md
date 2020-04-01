@@ -9,7 +9,7 @@
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 01 (link above)*
 - ![FSA](/logo.png) 🔬 Work on: *User Hub (link below)*
-- ![FSA](/logo.png) [📖 Prework: *Module_02*](https://learn.fullstackacademy.com/workshop/5e45668c295c680004732b36/content/5e45668c295c680004732b3d/text)
+- ![FSA](/logo.png) [📖 Prework: *Module_02*](https://learn.fullstackacademy.com/workshop/5e70ced67876630004afcddd/content/5e70ced67876630004afcde3/text)
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *User Hub*](https://learn.fullstackacademy.com/workshop/5e6d4e18f762d1000459ff4d/content/5e6d4e18f762d1000459ff5b/text) __ONLY UP TO MODULE 1. Start Module 02 after Thursday's class.__
