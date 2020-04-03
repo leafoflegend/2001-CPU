@@ -1,4 +1,4 @@
-# User Hub - Module 02
+# User Hub - Module 02 - Promises review, Query Strings
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
@@ -9,7 +9,7 @@
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 02 (link above)*
 - ![FSA](/logo.png) 🔬 Work on: *User Hub (link below)*
-- ![FSA](/logo.png) [📖 Prework: *Module_03*]()
+- ![FSA](/logo.png) 📖 No Prework
 
 ## Weekly Project (Due Sunday)
-- ![FSA](/logo.png) [🔬 Project: *User Hub*](https://learn.fullstackacademy.com/workshop/5e6d4e18f762d1000459ff4d/content/5e6d4e18f762d1000459ff5d/text) __ONLY UP TO MODULE 1. Start Module 03 after Thursday's class.__
+- ![FSA](/logo.png) [🔬 Project: *User Hub*](https://learn.fullstackacademy.com/workshop/5e6d4e18f762d1000459ff4d/content/5e6d4e18f762d1000459ff5d/text)
