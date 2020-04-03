@@ -1,7 +1,7 @@
 # User Hub - Module 02 - Promises review, Query Strings
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=vZinxDK3psA&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=31)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e70ced67876630004afcddd/content/5e70ced67876630004afcde5/text)
 - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e70ced67876630004afcddd/content/5e70ced67876630004afcdeb/text)
