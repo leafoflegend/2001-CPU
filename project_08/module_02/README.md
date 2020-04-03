@@ -2,9 +2,10 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e70ced67876630004afcddd/content/5e70ced67876630004afcde5/text)
 - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e70ced67876630004afcddd/content/5e70ced67876630004afcdeb/text)
+- ![FSA](/logo.png) [👾 Demo of Replace](replace-demo.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Finish: *Module 02 (link above)*
