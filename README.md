@@ -22,3 +22,5 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 - [Project 05 - *The Calculator*](project_05)
 - [Project 06 - *TODO.app*](project_06)
 - [Project 07 - *The Arcade*](project_07)
+- [Project 07 - *User Hub*](project_08)
+- [Project 07 - *The Art Collector*](project_09)
