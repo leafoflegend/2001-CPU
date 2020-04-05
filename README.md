@@ -22,6 +22,7 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 - [Project 05 - *The Calculator*](project_05)
 - [Project 06 - *TODO.app*](project_06)
 - [Project 07 - *The Arcade*](project_07)
-- [Project 07 - *User Hub*](project_08)
-- [Project 07 - *The Art Collector*](project_09)
-- [Project 07 - *TheNe.ws*](project_10)
+- [Project 08 - *User Hub*](project_08)
+- [Project 09 - *The Art Collector*](project_09)
+<!-- - [Project 10 - *TheNe.ws*](project_10) -->
+<!-- - [Project 11 - *Stranger's Things*](project_11) - Like project 09 but using different methods (POST, PUT, DELETE) and JWT at the end -->
