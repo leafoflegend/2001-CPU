@@ -1,7 +1,7 @@
 # User Hub - Module 03 - Building a Promise Ourselves
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=3IOfX9UejFc&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=32)
 - ![FSA](/logo.png) [👾 Demo Code - JS](promise.js)
 - ![FSA](/logo.png) 🔬 No Workshop
 
