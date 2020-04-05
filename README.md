@@ -24,3 +24,4 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 - [Project 07 - *The Arcade*](project_07)
 - [Project 07 - *User Hub*](project_08)
 - [Project 07 - *The Art Collector*](project_09)
+- [Project 07 - *TheNe.ws*](project_10)
