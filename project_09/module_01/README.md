@@ -1,8 +1,8 @@
-# The Art Collector - Module 01
+# The Art Collector - Module 01 - Async/Await and Try/Catch
 
 ## Lesson
 - ![FSA](/logo.png) [📺 Lecture]()
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 01*](https://learn.fullstackacademy.com/workshop/5e7e62ecccd4450004064a3d/landing)
 - ![FSA](/logo.png) [👾 Solution: *Module 01*](https://learn.fullstackacademy.com/workshop/5e7e62ecccd4450004064a3d/content/5e7e62edccd4450004064a4b/text)
 
