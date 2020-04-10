@@ -1,8 +1,8 @@
-# The Art Collector - Module 02
+# The Art Collector - Module 02 - Review - Destructuring, Promise.all(), Promises
 
 ## Lesson
-- ![FSA](/logo.png) [📺 Lecture]()
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 - ![FSA](/logo.png) [🔬 Workshop: *Module 02*](https://learn.fullstackacademy.com/workshop/5e7f990def5a0700040c7c8d/landing)
 - ![FSA](/logo.png) [👾 Solution: *Module 02*](https://learn.fullstackacademy.com/workshop/5e7f990def5a0700040c7c8d/content/5e7f990def5a0700040c7c9c/text)
 
