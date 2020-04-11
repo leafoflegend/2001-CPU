@@ -1,7 +1,7 @@
 # The Art Collector - Module 03
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=y7vUXG-Ltzk&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=35)
 - ![FSA](/logo.png) [👾 Demo Code - JS](review.js)
 
 ## Homework
