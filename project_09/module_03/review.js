@@ -9,7 +9,9 @@ const person = {
   place: 'Nantucket',
 }
 // destructuring selected properties of an object
-const {place, name} = person;
+const {place: island, name} = person;
+console.log('>>>>>>>>> island', island);
+
 
 const listPeople = ['Eliot', 'Preston'];
 
@@ -21,19 +23,30 @@ const [eliot, preston] = listPeople;
 //   console.log(`The current prop is ${person[key]}`)
 // }
 
-// async function
+// Array Destructuring
+
+
+const lizardsArr = ['FrankieDoo', 'Argo', 'GeicoGuy'];
+const firstLizard = lizardsArr[0];
+
+const [foo] = lizardsArr;
+const [, second, third, fourth] = lizardsArr;
+
+console.log('>>>>>>>>> foo', foo);
+console.log('>>>>>>>>> second', second);
+console.log('>>>>>>>>> fourth', fourth);
 
 const BASE_URL = 'https://api.harvardartmuseums.org';
 const KEY = 'apikey=351673f0-777e-11ea-b7b8-399da107d1d6'; // USE YOUR KEY HERE
-// const fetchData = async () => {
-//   try {
-//     const response = await fetch(`${ BASE_URL }/century?${ KEY }`);
-//     const data = await response.json();
-//     return data.records;
-//   } catch(err) {
-//     console.error(err)
-//   }
-// }
+const fetchData = async () => {
+  try {
+    const response = await fetch(`${ BASE_URL }/century?${ KEY }`);
+    const data = await response.json();
+    return data.records;
+  } catch(err) {
+    console.error(err)
+  }
+}
 
 // const fetchData = () => {
 //   return fetch(`${ BASE_URL }/century?${ KEY }`)
@@ -87,13 +100,16 @@ const KEY = 'apikey=351673f0-777e-11ea-b7b8-399da107d1d6'; // USE YOUR KEY HERE
 
 
 // async functions broadly
+// BELOW WILL ONLY WORK IN NODE
+// const fs = require('fs');
+// const path = require('path');
 
-const fs = require('fs');
-const path = require('path');
+// fs.readFile(path.join(__dirname, 'someText.txt'), {encoding: 'utf8'}, function(err, data) {
+//   if (err) {
+//     console.error(err);
+//   }
+//   console.log(data);
+// });
 
-fs.readFile(path.join(__dirname, 'someText.txt'), {encoding: 'utf8'}, function(err, data) {
-  if (err) {
-    console.error(err);
-  }
-  console.log(data);
-});
+
+
