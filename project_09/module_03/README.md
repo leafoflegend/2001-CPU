@@ -2,7 +2,7 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](review.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *The Art Collector (link below)*
