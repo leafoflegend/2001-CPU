@@ -1,8 +1,8 @@
-# TheNe.ws - Day 01 - app state, localStorage, caching data with timeouts
+# TheNe.ws - Day 01
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *TheNe.ws (link below)*
