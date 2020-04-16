@@ -1,4 +1,4 @@
-# TheNe.ws - Day 01
+# TheNe.ws - Day 02
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
