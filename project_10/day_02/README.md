@@ -1,8 +1,8 @@
-# TheNe.ws - Day 02
+# TheNe.ws - Day 02 - CSS Frameworks
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=wW01v2cBbeg&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=36)
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *TheNe.ws (link below)*
