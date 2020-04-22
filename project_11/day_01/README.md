@@ -1,7 +1,7 @@
 # Stranger's Things - Day 01 - CRUD intro. Stranger's Things Intro
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=E9idFTGrlMY&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=39)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ## Homework
