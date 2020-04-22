@@ -1,8 +1,8 @@
-# Stranger's Things - Day 01 - CRUD intro. Stranger's Things Intro
+# Stranger's Things - Day 02 - 
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
