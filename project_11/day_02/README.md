@@ -1,8 +1,7 @@
-# Stranger's Things - Day 02 - 
+# Stranger's Things - Day 02 - Review and Checkins
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - REGEX](regex.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
