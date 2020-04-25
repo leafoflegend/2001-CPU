@@ -1,4 +1,4 @@
-# Stranger's Things - Day 03 - 
+# Stranger's Things - Day 03 - Review, Login process, 
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
