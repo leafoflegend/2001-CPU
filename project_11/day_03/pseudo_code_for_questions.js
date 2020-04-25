@@ -1,3 +1,5 @@
+// FYI This code wont work. Its pseudo code.
+
 // - how to store the token and username in state? ✅
 //   - We get the token by using our username, so the username has to be made available first.
 // - Once we have that, we probably do a ternary in terms of "how" to get the token.
@@ -58,3 +60,56 @@ const bootstrap = async () => {
   }
 }
 
+// Applications and Render Flow
+
+// Applications are just representations of state.
+// Apps have an initial state, that is rendered, (sometimes servers can perform actions as well) users perform an action that changes state, app is then re-rendered.
+
+const initialState = {
+  todos: [],
+};
+
+const state = initialState;
+
+// Behavioral Functions we define
+
+const addTodo = () => {};
+const completeTodo = () => {};
+const removeTodo = () => {};
+
+const createInitialScreen = (state) => {
+  if (state.token) {
+    return strangerThings();
+  } else {
+    return loginScreen();
+  }
+}
+
+const createHeader = (todos) => {
+  if (!todos.length) {
+    return $(`<h1> You have no todos! </h1>`);
+  } else {
+    return $(`<h1> You have ${todos.length} tasks left! </h1>`);
+  }
+}
+
+const createTodoCards = () => {};
+
+const render = () => {
+  // Clear last render!
+  app.clear();
+  const container = $('<div>');
+  container.addClass('todo_container');
+
+  // We recreate the components of the next render using state.
+  const header = createHeader(state.todos);
+  const todoCards = createTodoCards(state.todos);
+
+  // We assemble them together.
+  container.append(header, todoCards);
+
+  // We finally publish the image we've assembled.
+  $(document).ready(() => {
+    app.append(container);
+  });
+}

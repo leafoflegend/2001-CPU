@@ -7,10 +7,11 @@
     - If its not there, go fetch a new one, and attempt to use that.
   - If the token you attempted to use works, store it in state (and localStorage if its new).
   - If it didn't work, its likely expired, so you'll have to re-login to get the token, then store in state/localStorage.
-- regex?
-- Getting things to render
-- Best practice with state and the flow of the data
-- Conditionally rendering certain things based on what's in state (i.e. if the user is logged in, render this, otherwise, render that.)
+- ✅ regex?
+- ✅ Render Flow Questions
+  - Getting things to render
+  - Best practice with state and the flow of the data
+  - Conditionally rendering certain things based on what's in state (i.e. if the user is logged in, render this, otherwise, render that.)
 - CSS Implementation (not examples of styling, more where to write stuff to hook it up)
   - Nuts & Bolts of CSS Frameworks
     - CSS @import vs `<link rel="somefile.css">`
