@@ -1,9 +1,8 @@
-# Stranger's Things - Day 03 - Review, Login process, 
+# Stranger's Things - Day 03 - Review - Login process, Render flow, State, Regex
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](questions.js)
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=t8fuM_7dTkY&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=39)
+- ![FSA](/logo.png) [👾 Review, Q&A](questions.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
