@@ -6,5 +6,5 @@
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
 
-## Weekly Project (Due Sunday)
+## Weekly Project (Due NEXT Sunday)
 - ![FSA](/logo.png) [🔬 Project: *Stranger's Things*](https://learn.fullstackacademy.com/workshop/5e8daec9be368c000405f864/landing)

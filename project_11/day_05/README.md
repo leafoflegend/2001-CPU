@@ -1,4 +1,4 @@
-# Stranger's Things - Day 04 - State, rendering, keyboard events
+# Stranger's Things - Day 04 - 
 
 ## Lesson
 - ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=9T8ZaI9gtbs&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=40)
