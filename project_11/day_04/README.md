@@ -2,7 +2,8 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - State](app.js)
+- ![FSA](/logo.png) [👾 Demo Code - Keyboard Events](eventApp.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
