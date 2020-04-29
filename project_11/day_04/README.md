@@ -1,7 +1,7 @@
 # Stranger's Things - Day 04 - 
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=9T8ZaI9gtbs&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=40)
 - ![FSA](/logo.png) [👾 Demo Code - State](app.js)
 - ![FSA](/logo.png) [👾 Demo Code - Keyboard Events](eventApp.js)
 
