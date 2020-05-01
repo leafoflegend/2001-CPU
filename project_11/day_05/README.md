@@ -1,8 +1,11 @@
-# Stranger's Things - Day 05 - 
+# Stranger's Things - Day 05 - HTML Forms, filter, HTTP Status Codes
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code](app.js)
+### Lesson Resources
+- ![FSA](/logo.png) [📃 Docs on HTML Forms](https://www.w3.org/TR/html4/interact/forms.html)
+- ![FSA](/logo.png) [😸 HTTP Status Codes](https://http.cat/)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *Stranger's Things (link below)*
