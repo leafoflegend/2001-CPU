@@ -1,7 +1,7 @@
 # Stranger's Things - Day 05 - HTML Forms, filter, HTTP Status Codes
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=LbUtgk2bVrw&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=41)
 - ![FSA](/logo.png) [👾 Demo Code](app.js)
 ### Lesson Resources
 - ![FSA](/logo.png) [📃 Docs on HTML Forms](https://www.w3.org/TR/html4/interact/forms.html)

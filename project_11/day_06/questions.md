@@ -1,4 +1,0 @@
-# Questions/Concepts for Demo
-
-- 
-  
