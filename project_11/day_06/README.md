@@ -11,4 +11,4 @@
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *Stranger's Things*](https://learn.fullstackacademy.com/workshop/5e8daec9be368c000405f864/landing)
-- ![FSA](/logo.png) [📬 SUBMIT PROJECT HERE: *TheNe.ws*](https://forms.gle/FgAX9QEL4E2TuR8r8) __Submit by Sunday 10pm Pacific__
+- ![FSA](/logo.png) [📬 SUBMIT PROJECT HERE: *Stranger's Things*](https://forms.gle/FgAX9QEL4E2TuR8r8) __Submit by Sunday 10pm Pacific__
