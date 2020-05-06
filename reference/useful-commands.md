@@ -32,17 +32,28 @@
     - move a folder `mv folder-name ../../target-folder`
 
 ## Git
-- Clone `git clone <url>`
-- Check where cloning from and committing to `git remote -v`
-- Add a remote repository  `git remote add remote-name https://remote-url/repo-name.git`
-- Add all files in the repo to staging area `git add .`
-- Add just one file to the staging area `git add <filename>`
-- Commit `git commit -m "my-message"`
-- Push `git push`
-- See status of staging area etc `git status`
-- See log of activity (commits) `git log`
-- Change git email locally: `git config user.email example@email.com`
-- See git repo config settings (i.e. email username etc): `git config --list`
+- Cloning and remotes
+  - Clone `git clone <url>`
+  - Check where cloning from and committing to `git remote -v`
+  - Add a remote repository  `git remote add <remote-name> https://remote-url/repo-name.git`
+- Committing
+  - See status of staging area etc `git status`
+  - Add all files in the repo to staging area `git add -A`
+  - Add just one file to the staging area `git add <filename>`
+  - Commit `git commit -m "my-message"`
+  - Push `git push`
+- logs
+  - See log of activity (commits) `git log`
+  - See log with limited info (easier to read) `git log --oneline`
+- configs
+  - Change git email locally: `git config user.email example@email.com`
+  - See git repo config settings (i.e. email username etc): `git config --list`
+- Diffs
+  - See what is changed currently compared to the most recent commit `git diff`
+  - See what has changed in the current working tree vs a specific branch `git diff <branch-name> --`
+- Removing changes
+  - Remove uncommitted changes (but save them for later, just in case) `git stash`
+  - Remove last commit `git reset --hard HEAD^`
 
 ## ports/processes
 - Show list of ports running `lsof -i:<port-number>`
@@ -50,4 +61,9 @@
 - Show list of all node processes `ps -ef | grep node`
 - Kill all node processes `pkill -f node`
 
-
+## heroku
+- Create a new app `heroku create`
+- Create a named app `heroku apps:create <app-name>`
+- Push code to heroku `git push heroku master`
+- Set an environment variable `heroku config:set VAR_NAME="variable-value"`
+- Open the heroku app from the current project `heroku open`
