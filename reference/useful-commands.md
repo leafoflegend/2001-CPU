@@ -34,7 +34,7 @@
 ## Git
 - Clone `git clone <url>`
 - Check where cloning from and committing to `git remote -v`
-- Add a remote repository  `git remote add remote-name https://remote-url/repo-name.git`
+- Add a remote repository  `git remote add <remote-name> https://remote-url/repo-name.git`
 - Add all files in the repo to staging area `git add .`
 - Add just one file to the staging area `git add <filename>`
 - Commit `git commit -m "my-message"`
