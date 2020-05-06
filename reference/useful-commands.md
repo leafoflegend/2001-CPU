@@ -50,4 +50,9 @@
 - Show list of all node processes `ps -ef | grep node`
 - Kill all node processes `pkill -f node`
 
-
+## heroku
+- Create a new app `heroku create`
+- Create a named app `heroku apps:create <app-name>`
+- Push code to heroku `git push heroku master`
+- Set an environment variable `heroku config:set VAR_NAME="variable-value"`
+- Open the heroku app from the current project `heroku open`
