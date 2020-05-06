@@ -36,12 +36,17 @@
   - Clone `git clone <url>`
   - Check where cloning from and committing to `git remote -v`
   - Add a remote repository  `git remote add <remote-name> https://remote-url/repo-name.git`
+  - Change the origin `git remote set-url origin <new-git-repo-url>`
 - Committing
   - See status of staging area etc `git status`
   - Add all files in the repo to staging area `git add -A`
   - Add just one file to the staging area `git add <filename>`
   - Commit `git commit -m "my-message"`
   - Push `git push`
+- Branching
+  - Check out to a new branch `git checkout -b <branchname>`
+  - Check out to an existing branch `git checkout <branchname>`
+  - Delete a branch (cannot be the branch you're on!) `git branch -D <branchname>`
 - logs
   - See log of activity (commits) `git log`
   - See log with limited info (easier to read) `git log --oneline`
@@ -51,9 +56,13 @@
 - Diffs
   - See what is changed currently compared to the most recent commit `git diff`
   - See what has changed in the current working tree vs a specific branch `git diff <branch-name> --`
-- Removing changes
+- Removing/rebasing changes - Intermediate to Advanced
   - Remove uncommitted changes (but save them for later, just in case) `git stash`
   - Remove last commit `git reset --hard HEAD^`
+  - Squash the last 3 commits into one single commit `git rebase -i HEAD~3`
+    - Then in the editor, for any commits you want to keep leave `pick`. For anything you want to "squash" and not include that as a commit, change `pick` to `squash`.
+  - Squash everything after <SHA1> `git rebase -i e25340b` where e25340b is the SHA1
+    - Repeat next step from above to pick/squash specific  commits.
 
 ## ports/processes
 - Show list of ports running `lsof -i:<port-number>`
