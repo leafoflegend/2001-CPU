@@ -2,8 +2,9 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
+## Reference - [Useful Commands](../../reference/useful-commands.md)
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *DevJobz (link below)*
 
