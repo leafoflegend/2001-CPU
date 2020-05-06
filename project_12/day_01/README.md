@@ -1,4 +1,4 @@
-# DevJobz - Day 01 - CRUD intro. DevJobz Intro
+# DevJobz - Day 01 - Node, NPM, Git, Express
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
