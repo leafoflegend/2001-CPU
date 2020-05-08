@@ -1,7 +1,7 @@
 # DevJobz - Day 02 - Axios, Express routes, Client-server relationship
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=KsfiBSXoPA8&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=43)
 - ![FSA](/logo.png) [👾 Demo Code - server_one](server_one.js)
 - ![FSA](/logo.png) [👾 Demo Code - server_two](server_two.js)
 
