@@ -1,0 +1,18 @@
+{
+  "name": "day_02",
+  "version": "1.0.0",
+  "description": "## Lesson <!-- - ![FSA](/logo.png) [📺 Lecture]() --> <!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->",
+  "main": "server_one.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
