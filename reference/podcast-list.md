@@ -12,3 +12,4 @@
 - ![FSA](/logo.png) [🎙️ Node Modules - Syntax](https://syntax.fm/show/211/hasty-treat-modules-in-node)
 - ![FSA](/logo.png) [🎙️ Server Side Fundamentals - Syntax](https://syntax.fm/show/188/the-fundamentals-server-side)
 - ![FSA](/logo.png) [🎙️ How to Build an API - Syntax](https://syntax.fm/show/174/how-to-build-an-api)
+- ![FSA](/logo.png) [🎙️ OS Wars - The Rise of Linux - Command Line Heroes](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
