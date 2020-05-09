@@ -2,7 +2,7 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](server.js)
+- ![FSA](/logo.png) [👾 Demo Code - JS](news-app-2001/index.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *DevJobz (link below)*
