@@ -1,7 +1,7 @@
 # JuiceBox, Part 1 - Day 01 - Intro to Databases, PostgreSQL, PSQL, Node/PG, Seeding DBs
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=bd0UdZhd2zI&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=46)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ### Why DB Software?
