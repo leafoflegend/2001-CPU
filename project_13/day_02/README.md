@@ -1,8 +1,8 @@
-# JuiceBox, Part 1 - Day 01 - Intro to Databases, PostgreSQL, PSQL, Node/PG, Seeding DBs
+# JuiceBox, Part 1 - Day 02 - Update, Relations, Joins
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *JuiceBox, Part 1 (link below)*
