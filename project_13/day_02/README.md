@@ -1,7 +1,7 @@
 # JuiceBox, Part 1 - Day 02 - Updating, Defining Relations
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=PaVhRvrfMoM&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=47)
 - ![FSA](/logo.png) [👾 Demo Code - JS](seed.js)
 
 ### Tips using your editor with bigger projects:
