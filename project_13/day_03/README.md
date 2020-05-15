@@ -1,4 +1,4 @@
-# JuiceBox, Part 1 - Day 03 - Many-To-Many relationships via through tables
+# JuiceBox, Part 1 - Day 03 - JOIN statements, Many-To-Many relationships via through tables.
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
