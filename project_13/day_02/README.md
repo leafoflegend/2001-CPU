@@ -1,8 +1,15 @@
-# JuiceBox, Part 1 - Day 02 - Update, Relations, Joins
+# JuiceBox, Part 1 - Day 02 - Updating, Defining Relations
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+
+### Tips using your editor with bigger projects:
+- Use CMD + Shift + F to search across multiple files.
+- console.log AND call your functions early and often.
+- Commit early and often.  
+  - Commit only working code.  That way you can use your diff to debug: 
+  - Look at what you have changed and what broke since it was working.
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *JuiceBox, Part 1 (link below)*
