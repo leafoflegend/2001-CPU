@@ -2,7 +2,7 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
+- ![FSA](/logo.png) [👾 Demo Code - JS](seed.js)
 
 ### Tips using your editor with bigger projects:
 - Use CMD + Shift + F to search across multiple files.
