@@ -2,10 +2,11 @@
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *JuiceBox, Part 1 (link below)*
+- ![FSA](/logo.png) [📖 Prework: *JuiceBox, Part 2*](https://learn.fullstackacademy.com/workshop/5ead52ab23517900048866f3/content/5ead52ab23517900048866fe/text)
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *JuiceBox, Part 1*](https://learn.fullstackacademy.com/workshop/5ea5a112454faa0004185c44/content/5ea5a4e6454faa0004185ce1/text)

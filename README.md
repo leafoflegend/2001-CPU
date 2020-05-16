@@ -28,3 +28,4 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 - [Project 11 - *Stranger's Things*](project_11) - Like project 09 but using different methods (POST, PUT, DELETE) and JWT at the end
 - [Project 12 - *DevJobz*](project_12) - Intro to the Command Line, Servers, Node, Express, Git, and Heroku.
 - [Project 13 - *JuiceBox, Part 1*](project_13) - Intro to Databases, PostgreSQL, PSQL, Node/PG
+- [Project 13 - *JuiceBox, Part 2*](project_14) - Web Servers, Express, API Routes
