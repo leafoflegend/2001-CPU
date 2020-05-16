@@ -1,7 +1,7 @@
 # JuiceBox, Part 1 - Day 03 - JOIN statements, Many-To-Many relationships via through tables.
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=9Lmdb6dcFLM&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=48)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ## Homework
