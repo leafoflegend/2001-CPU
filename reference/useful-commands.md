@@ -76,3 +76,10 @@
 - Push code to heroku `git push heroku master`
 - Set an environment variable `heroku config:set VAR_NAME="variable-value"`
 - Open the heroku app from the current project `heroku open`
+
+## CURL
+- `GET` request: `curl https://www.google.com/`
+- Setting Authorization header: `curl http://localhost:3000/myroute -H 'Authorization: Bearer <myreallylongtoken>`
+- `POST` request: `curl http://localhost:3000/myroute -H "Content-Type: application/json" -X POST -d '{"key1": "val1", "key2": "val2"}'` (`-H` is a header, in this case setting our content type as json. `-X` is setting the method, post in this case. `-d` is the request body in JSON format.)
+- `PATCH` request: `curl http://localhost:3000/myroute -X PATCH -H 'Content-Type: application/json' -d '{"key1": "val1", "key2": "val2"}'`
+- `DELETE` request: `curl http://localhost:3000/myrouote -X DELETE`
