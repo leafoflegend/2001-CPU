@@ -77,7 +77,7 @@
 - Set an environment variable `heroku config:set VAR_NAME="variable-value"`
 - Open the heroku app from the current project `heroku open`
 
-## CURL
+## cURL
 - Methods
   - `GET` request: `curl https://www.google.com/`
   - `POST` request: `curl http://localhost:3000/myroute -H "Content-Type: application/json" -X POST -d '{"key1": "val1", "key2": "val2"}'` (`-H` is a header, in this case setting our content type as json. `-X` is setting the method, post in this case. `-d` is the request body in JSON format.)
