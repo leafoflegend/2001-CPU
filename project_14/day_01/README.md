@@ -1,7 +1,7 @@
 # JuiceBox, Part 2 - Day 01 - Web Servers, `process.env`, Express, API Routes, Middleware
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=mJofya_GPZ8&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=49)
 - ![FSA](/logo.png) [👾 Demo Code - JS](app.js)
 
 ## Homework
