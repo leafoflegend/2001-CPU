@@ -1,4 +1,5 @@
-# Terminal Commands and Keyboard Shortcuts
+# Terminal Commands
+These are a few helpful commands you'll likely use during this cohort (once we start in machine setup, Node and the backend) 
 
 ## Basic Terminal Commands
 - Command line
