@@ -1,0 +1,19 @@
+{
+  "name": "day_02",
+  "version": "1.0.0",
+  "description": "## Lesson <!-- - ![FSA](/logo.png) [📺 Lecture]() --> <!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->",
+  "main": "public/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.2.1"
+  }
+}
