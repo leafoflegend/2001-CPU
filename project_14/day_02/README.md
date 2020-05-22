@@ -1,4 +1,4 @@
-# JuiceBox, Part 2 - Day 02 - Auth, JWT, Error Handling
+# JuiceBox, Part 2 - Day 02 - Auth, JWT
 
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
