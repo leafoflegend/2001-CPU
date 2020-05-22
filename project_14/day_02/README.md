@@ -1,7 +1,7 @@
 # JuiceBox, Part 2 - Day 02 - Auth, JWT
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=mH7clGdLCDQ&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=50)
 - ![FSA](/logo.png) [👾 Demo Code - JS](server.js)
 
 ## Homework
