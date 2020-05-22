@@ -77,6 +77,7 @@ These are a few helpful commands you'll likely use during this cohort (once we s
 - Push code to heroku `git push heroku master`
 - Set an environment variable `heroku config:set VAR_NAME="variable-value"`
 - Open the heroku app from the current project `heroku open`
+- Run a script on your app's terminal. `heroku run <command>` (example: `heroku run npm run seed`)
 
 ## cURL
 - Methods
