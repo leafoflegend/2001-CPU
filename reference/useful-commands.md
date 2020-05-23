@@ -78,6 +78,8 @@ These are a few helpful commands you'll likely use during this cohort (once we s
 - Set an environment variable `heroku config:set VAR_NAME="variable-value"`
 - Open the heroku app from the current project `heroku open`
 - Run a script on your app's terminal. `heroku run <command>` (example: `heroku run npm run seed`)
+- Try destroying the old app: `heroku apps:destroy <app-name>` Note that this will *__PERMANENTLY__* and irrevocably destroy the app.
+- Edit the heroku git remote: ` heroku git:remote -a <app-name>`
 
 ## cURL
 - Methods
