@@ -1,8 +1,7 @@
 # JuiceBox, Part 2 - Day 03 - Review, Deploying an API with a database
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
+- ![FSA](/logo.png) [📺 Demo - Deploy JuiceBox to Heroku](https://www.youtube.com/watch?v=oKaM_bl67E4&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=51)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *JuiceBox, Part 2 (link below)*
