@@ -1,8 +1,8 @@
-# FitnessTrac.kr - Day 01 - Test Driven Development & Full-stack development
+# FitnessTrac.kr - Day 02
 
 ## Lesson
-- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=c9DedOfBhV0&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=52)
-- ![FSA](/logo.png) [👾 Demo Code - JS](src)
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *FitnessTrac.kr (link below)*
