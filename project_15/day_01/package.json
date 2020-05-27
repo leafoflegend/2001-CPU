@@ -1,0 +1,27 @@
+{
+  "name": "day_01",
+  "version": "1.0.0",
+  "description": "## Lesson <!-- - ![FSA](/logo.png) [📺 Lecture]() --> <!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "pg": "^8.2.1"
+  }
+}
