@@ -1,7 +1,8 @@
-# FitnessTrac.kr - Day 02 - Cryptography, Salting & Hashing Passwords
+# FitnessTrac.kr - Day 03
+
 ## Lesson
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](index.js) -->
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *FitnessTrac.kr (link below)*
