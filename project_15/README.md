@@ -1,4 +1,4 @@
-# project_14 - FitnessTrac.kr - Back-end Project - 2 weeks
+# project_15 - FitnessTrac.kr - Back-end Project - 2 weeks
 
 ## Weekly Project (Due Sunday)
 - ![FSA](/logo.png) [🔬 Project: *FitnessTrac.kr*](https://learn.fullstackacademy.com/workshop/5eb185416a449000046b2bf9/landing)
