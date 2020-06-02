@@ -1,4 +1,8 @@
-# FitnessTrac.kr - Day 03 - No Lecture (reivew)
+# FitnessTrac.kr - Day 04 - Oauth, Axios review
+
+## Lesson
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](app.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *FitnessTrac.kr (link below)*
