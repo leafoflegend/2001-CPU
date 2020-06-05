@@ -1,7 +1,8 @@
-# FitnessTrac.kr - Day 03 - Circular Dependencies
+# FitnessTrac.kr - Day 04 - Sessions
+
 ## Lesson
-- ![FSA](/logo.png) 📺 No Lecture
-- ![FSA](/logo.png) [👾 Demo Code - JS](index.js)
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js)
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *FitnessTrac.kr (link below)*
