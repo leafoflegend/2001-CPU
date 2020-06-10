@@ -1,7 +1,7 @@
 # DeckBuilder - Day 01 - Intro to React - State, Props, Forms
 
 ## Lesson
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=Nb5FCDEHG7s&list=PL9NTD5QQdssXTarkBujHENSDgUVBIoFX8&index=56)
 - ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js)
 
 ## Homework
