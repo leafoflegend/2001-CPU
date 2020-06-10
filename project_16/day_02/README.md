@@ -1,8 +1,9 @@
-# DeckBuilder - Day 01 - Intro to React - State, Props, Forms
+# DeckBuilder - Day 02 - React - CSS, Mapping in JSX
 
 ## Lesson
+<!-- - ![FSA](/logo.png) [💼 Career Success]() -->
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-- ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js)
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js) -->
 
 ## Homework
 - ![FSA](/logo.png) 🔬 Work on: *DeckBuilder (link below)*
