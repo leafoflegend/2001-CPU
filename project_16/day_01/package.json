@@ -1,0 +1,30 @@
+{
+  "name": "day_01",
+  "version": "1.0.0",
+  "description": "## Lesson <!-- - ![FSA](/logo.png) [📺 Lecture]() --> <!-- - ![FSA](/logo.png) [👾 Demo Code - JS](src) -->",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
