@@ -2,7 +2,7 @@
 
 ## Lesson
 
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://youtu.be/zhkdu0vZAJ4)
 
 - ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js)
 
