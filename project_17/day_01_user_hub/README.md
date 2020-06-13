@@ -3,7 +3,8 @@
 ## Lesson
 
 <!-- - ![FSA](/logo.png) [📺 Lecture]() -->
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js) -->
+
+- ![FSA](/logo.png) [👾 Demo Code - JS](src/index.js)
 
 ## Weekly Project (Due Sunday)
 
