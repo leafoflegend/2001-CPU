@@ -33,4 +33,4 @@ Don't copy code. It just cheats yourself out of an education and struggle from t
 - [Project 15 - _FitnessTrac.kr_](project_15) - Back-end project
 - [Project 16 - _DeckBuilder: React_](project_16) - React Intro
 - [Project 17 - _UserHub: React Router DOM_](project_17) - useEffect and React Router DOM
-- [Project 17 - _The Great Linkerator_](project_18) - full stack app
+- [Project 18 - _The Great Linkerator_](project_18) - full stack app
