@@ -1,7 +1,13 @@
-# project_17 - UserHub: React
+# DeckBuilder
+
+## Lesson
+
+- ![FSA](/logo.png) [Day 01](day_01_user_hub)
+
+## Homework
+
+- ![FSA](/logo.png) 🔬 Work on: _DeckBuilder (link below)_
 
 ## Weekly Project (Due Sunday)
 
-- ![FSA](/logo.png) [🔬 Project: _UserHub: React_](https://learn.fullstackacademy.com/workshop/5ec6997ac8cf0d0004f7102a/content/5ec699bcc8cf0d0004f71042/text)
-
-- ![FSA](/logo.png) [Day 01](day_01_user_hub)
+- ![FSA](/logo.png) [🔬 Project: _DeckBuilder_](https://learn.fullstackacademy.com/workshop/5ec67dd7f1b3f90004b25e20/landing)
