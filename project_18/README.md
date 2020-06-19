@@ -7,3 +7,5 @@
 ### Days
 
 - ![FSA](/logo.png) [Day 01: Webpack and Babel](day_01)
+
+- ![FSA](/logo.png) [Day 02: Deploying to Heroku](day_02)
