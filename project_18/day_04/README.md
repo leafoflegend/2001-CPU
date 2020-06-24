@@ -2,10 +2,8 @@
 
 ## Lesson
 
-- ![FSA](/logo.png) [📺 Lecture: Web Sockets w/ Socket.io]()
-<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](./src/index.js)
-- ![FSA](/logo.png) [👾 Webpack Config](webpack.config.js)
-- ![FSA](/logo.png) [👾 Babel RC](.babelrc) -->
+- ![FSA](/logo.png) [📺 Lecture: Web Sockets w/ Socket.io](https://youtu.be/DfUMG_buAnE)
+- ![FSA](/logo.png) [👾 Demo Code - JS](./sockets_demo/server/index.js)
 
 ## Homework
 
