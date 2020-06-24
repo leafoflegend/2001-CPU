@@ -1,11 +1,11 @@
-# The Great Linkerator (Fullstack App): Day One: Webpack and Babel,
+# The Great Linkerator (Fullstack App): Day Four: Socket.io
 
 ## Lesson
 
-- ![FSA](/logo.png) [📺 Lecture: Webpack and Babel](https://youtu.be/NhLFscMcZ2Q)
-- ![FSA](/logo.png) [👾 Demo Code - JS](./src/index.js)
+- ![FSA](/logo.png) [📺 Lecture: Web Sockets w/ Socket.io]()
+<!-- - ![FSA](/logo.png) [👾 Demo Code - JS](./src/index.js)
 - ![FSA](/logo.png) [👾 Webpack Config](webpack.config.js)
-- ![FSA](/logo.png) [👾 Babel RC](.babelrc)
+- ![FSA](/logo.png) [👾 Babel RC](.babelrc) -->
 
 ## Homework
 
