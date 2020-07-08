@@ -2,7 +2,7 @@
 
 ## Lesson
 
-- ![FSA](/logo.png) [📺 Lecture: PR Workflow]()
+- ![FSA](/logo.png) [📺 Lecture: PR Workflow](https://youtu.be/_2eUGoSPrBs)
 
 ## Homework
 
