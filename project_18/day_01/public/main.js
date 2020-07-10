@@ -88,7 +88,7 @@
 
 /***/ "./node_modules/axios/index.js":
 /*!*************************************!*\
-  !*** ./node_modules/axios/index.js ***!
+  !*** ./node_modules/axios/original.js ***!
   \*************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1901,7 +1901,7 @@ module.exports = {
 
 /***/ "./node_modules/object-assign/index.js":
 /*!*********************************************!*\
-  !*** ./node_modules/object-assign/index.js ***!
+  !*** ./node_modules/object-assign/original.js ***!
   \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -3706,7 +3706,7 @@ function describeComponentFrame (name, source, ownerName) {
 
     {
       // In DEV, include code for a common special case:
-      // prefer "folder/index.js" instead of just "index.js".
+      // prefer "folder/original.js" instead of just "original.js".
       if (/^index\./.test(fileName)) {
         var match = path.match(BEFORE_SLASH_RE);
 
@@ -26912,7 +26912,7 @@ function injectIntoDevTools(devToolsConfig) {
     // Enables DevTools to append owner stacks to error messages in DEV mode.
     getCurrentFiber:  function () {
       return current;
-    } 
+    }
   }));
 }
 var IsSomeRendererActing$1 = ReactSharedInternals.IsSomeRendererActing;
@@ -27360,7 +27360,7 @@ exports.version = ReactVersion;
 
 /***/ "./node_modules/react-dom/index.js":
 /*!*****************************************!*\
-  !*** ./node_modules/react-dom/index.js ***!
+  !*** ./node_modules/react-dom/original.js ***!
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -27512,7 +27512,7 @@ function describeComponentFrame (name, source, ownerName) {
 
     {
       // In DEV, include code for a common special case:
-      // prefer "folder/index.js" instead of just "index.js".
+      // prefer "folder/original.js" instead of just "original.js".
       if (/^index\./.test(fileName)) {
         var match = path.match(BEFORE_SLASH_RE);
 
@@ -29329,7 +29329,7 @@ exports.version = ReactVersion;
 
 /***/ "./node_modules/react/index.js":
 /*!*************************************!*\
-  !*** ./node_modules/react/index.js ***!
+  !*** ./node_modules/react/original.js ***!
   \*************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -30577,7 +30577,7 @@ exports.unstable_wrapCallback = unstable_wrapCallback;
 
 /***/ "./node_modules/scheduler/index.js":
 /*!*****************************************!*\
-  !*** ./node_modules/scheduler/index.js ***!
+  !*** ./node_modules/scheduler/original.js ***!
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -30611,7 +30611,7 @@ if (false) {} else {
 
 /***/ "./src/index.js":
 /*!**********************!*\
-  !*** ./src/index.js ***!
+  !*** ./src/original.js ***!
   \**********************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
