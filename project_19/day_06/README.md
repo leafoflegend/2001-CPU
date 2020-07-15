@@ -9,7 +9,6 @@
 - ![FSA](/logo.png) [ 🔬 Solution Code: List Anagrams](https://repl.it/repls/DeeppinkSilkyTest#index.js)
 
 
-
 ## Homework
 
 - ![FSA](/logo.png) 🔬 Work on: _Grace Shopper (link below)_
