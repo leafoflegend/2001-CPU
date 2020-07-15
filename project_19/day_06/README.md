@@ -2,7 +2,7 @@
 
 ## Lesson
 
-- ![FSA](/logo.png) [📺 Lecture: Optimization](https://youtu.be/a5QCCXFgWpM)
+- ![FSA](/logo.png) [📺 Lecture: Optimization](https://youtu.be/pfl0eLEDnIg)
 
 - ![FSA](/logo.png) [ 🔬 Solution Code: Memoized Fibonacci](https://repl.it/repls/PeruMotherlyLifecycle#index.js)
 
