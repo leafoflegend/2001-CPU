@@ -1,0 +1,19 @@
+User
+  - firstName: string
+  - lastName: string
+  - age: number
+
+Group
+  - name: string
+  - category: string
+
+
+Post
+  - title: string
+  - content: text
+
+User has many Groups
+Group has many Users
+
+Post belongs to User
+Post belongs to Group
