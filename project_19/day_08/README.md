@@ -2,7 +2,7 @@
 
 ## Lecture
 
-- ![FSA](/logo.png) [📺 Lecture: Quadratic Sorting]()
+- ![FSA](/logo.png) [📺 Lecture: Quadratic Sorting](https://youtu.be/Ea62mULTZXA)
 
 ## Homework
 
